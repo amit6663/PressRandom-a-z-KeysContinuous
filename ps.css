@@ -1,0 +1,24 @@
+img{
+	height:300px;
+	width:300px;
+	border-radius:300px;
+	border:solid green;
+	
+	transform:rotate(0deg);
+	transition:.2s;
+	margin:45px;
+	margin:0px;
+	padding:3px;
+}
+img:hover{
+	transform:rotate(360deg);
+}
+#ima{
+	background-image:url("ps1.png");
+	height:310px;
+	width:310px;
+	background-repeat:no-repeat;
+	margin:30px;
+    border-width:5px;	
+	border:solid red;
+}
